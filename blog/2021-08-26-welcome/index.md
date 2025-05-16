@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Welcome
+slug: Wazzza familia 
+title: Bem vindos 
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
